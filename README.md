@@ -45,3 +45,5 @@ The UCI page mentions the following publication as the source of the data set:
 *Volker Lohweg (University of Applied Sciences, Ostwestfalen-Lippe, volker.lohweg '@' hs-owl.de)* 
 *Helene DÃ¶rksen (University of Applied Sciences, Ostwestfalen-Lippe, helene.doerksen '@' hs-owl.de)*
 
+https://www.kaggle.com/datasets/ritesaluja/bank-note-authentication-uci-data
+
