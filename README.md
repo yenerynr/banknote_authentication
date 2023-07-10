@@ -47,3 +47,6 @@ The UCI page mentions the following publication as the source of the data set:
 
 https://www.kaggle.com/datasets/ritesaluja/bank-note-authentication-uci-data
 
+STREAMLIT APP
+https://yenerynr-banknote-authentication-bank-ann-ksva5g.streamlit.app/
+
